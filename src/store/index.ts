@@ -1,2 +1,2 @@
-export * from './store'
-export * from './storeHooks'
+export * from "./store";
+export * from "./storeHooks";
